@@ -1,0 +1,14 @@
+D:\文档\visual\Project base\Console2048\bin\Debug\net8.0\Console2048.exe
+D:\文档\visual\Project base\Console2048\bin\Debug\net8.0\Console2048.deps.json
+D:\文档\visual\Project base\Console2048\bin\Debug\net8.0\Console2048.runtimeconfig.json
+D:\文档\visual\Project base\Console2048\bin\Debug\net8.0\Console2048.dll
+D:\文档\visual\Project base\Console2048\bin\Debug\net8.0\Console2048.pdb
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.GeneratedMSBuildEditorConfig.editorconfig
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.AssemblyInfoInputs.cache
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.AssemblyInfo.cs
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.csproj.CoreCompileInputs.cache
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.dll
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\refint\Console2048.dll
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.pdb
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\Console2048.genruntimeconfig.cache
+D:\文档\visual\Project base\Console2048\obj\Debug\net8.0\ref\Console2048.dll
